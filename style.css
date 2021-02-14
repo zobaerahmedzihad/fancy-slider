@@ -64,3 +64,10 @@ img {
     width: 90%;
   }
 }
+
+body{
+  background-color:lightblue;
+}
+.head-title{
+  color: rgb(19, 31, 194);
+}

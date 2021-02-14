@@ -144,7 +144,7 @@ sliderBtn.addEventListener('click', function () {
 	if (duration >= 1000) {
 		createSlider(duration);
 	} else {
-		alert('You have to set the time minimum 1000ms');
+		alert('You have to set the time minimum 1000ms (1 second). Thank you..!');
 	}
 });
 document.querySelector('#search').addEventListener('keypress', function (e) {
